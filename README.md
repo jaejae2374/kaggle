@@ -1,2 +1,6 @@
 # kaggle
-창의융합프로젝트 수업의 kaggle competition
+SNU 2021-1 DS Project 3
+<Classification of cardiac abnormalities from two-lead ECGs>
+  
+
+
